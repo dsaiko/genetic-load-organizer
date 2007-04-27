@@ -1,0 +1,43 @@
+ na/**
+ * $LastChangedDate: 2006-05-11 18:19:18 +0200 (čt, 11 V 2006) $
+ * $LastChangedRevision: 14 $
+ * $LastChangedBy: saigon $
+ * $HeadURL: https://www.saiko.cz/svn/dsaiko/loadorganizer/src/org/saiko/loadorganizer/todo.txt $
+ * $Id: todo.txt 14 2006-05-11 16:19:18Z saigon $
+ * 
+ * Load Organizer - ussage of genetic algorithm
+ * (c) 2006 Dusan Saiko, dusan@saiko.cz
+ */
+
+window - cascade / title ..
+localization
+ikony aplikace, ikony k menu
+javadoc
+pdf
+
+pozice jednotlivych objektu (az tisk)
+editace knihovny
+
+databáze - nic, xml.gz
+
+okomentovat kod, upravit
+
+hmotnost - > ne na stred, ale dopredu + otaceni --> doc
+
+doc: vypocet statistik + gene
+doc: popis funcnosti, tlacitek, mysi, klavesnice
+popis ovladani aplikace, vybery, pridavani atd.
+
+popsat geneticky algoritmus + volby kriterialni funkce
+
+zkusit na windowsech
+
+posuny boxů
+
+popsat xml soubor
+
+popsat strukturu dat na CD
+
+virtual box heuristics
+
+predelat new generation - generalizovat

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<library>
+
+<container>
+  <sap>10001</sap>
+  <size1>1284</size1>
+  <size2>759</size2>
+  <weight>487</weight>
+  <name>Wanne W1</name>
+</container>
+
+<container>
+  <sap>10002</sap>
+  <size1>1350</size1>
+  <size2>850</size2>
+  <weight>573</weight>
+  <name>2GST K RAL</name>
+</container>
+
+<container>
+  <sap>10003</sap>
+  <size1>1400</size1>
+  <size2>960</size2>
+  <weight>672</weight>
+  <name>2GST KS VZ</name>
+</container>
+
+<container>
+  <sap>10004</sap>
+  <size1>1400</size1>
+  <size2>960</size2>
+  <weight>672</weight>
+  <name>2P2 F vz 3ks</name>
+</container>
+
+<container>
+  <sap>10005</sap>
+  <size1>1400</size1>
+  <size2>960</size2>
+  <weight>672</weight>
+  <name>2P2 F vz 8 ks</name>
+</container>
+
+<container>
+  <sap>10006</sap>
+  <size1>1350</size1>
+  <size2>900</size2>
+  <weight>607</weight>
+  <name>2P2 P</name>
+</container>
+
+<container>
+  <sap>10007</sap>
+  <size1>1200</size1>
+  <size2>850</size2>
+  <weight>510</weight>
+  <name>Basis A FSR</name>
+</container>
+
+<container>
+  <sap>10008</sap>
+  <size1>1220</size1>
+  <size2>1250</size2>
+  <weight>762</weight>
+  <name>Basis C PAL</name>
+</container>
+
+<container>
+  <sap>10009</sap>
+  <size1>1220</size1>
+  <size2>820</size2>
+  <weight>500</weight>
+  <name>Basis E</name>
+</container>
+
+<container>
+  <sap>10010</sap>
+  <size1>1280</size1>
+  <size2>820</size2>
+  <weight>524</weight>
+  <name>Basis E pal. RAL</name>
+</container>
+
+<container>
+  <sap>10011</sap>
+  <size1>1220</size1>
+  <size2>820</size2>
+  <weight>500</weight>
+  <name>Basis E Wanne. VZ</name>
+</container>
+
+<container>
+  <sap>10012</sap>
+  <size1>1280</size1>
+  <size2>800</size2>
+  <weight>512</weight>
+  <name>Basis K</name>
+</container>
+
+<container>
+  <sap>10013</sap>
+  <size1>1220</size1>
+  <size2>820</size2>
+  <weight>500</weight>
+  <name>Basis K Wanne 5010</name>
+</container>
+
+<container>
+  <sap>10014</sap>
+  <size1>2000</size1>
+  <size2>2000</size2>
+  <weight>2000</weight>
+  <name>BMC tTürrahmen</name>
+</container>
+
+<container>
+  <sap>10015</sap>
+  <size1>700</size1>
+  <size2>1500</size2>
+  <weight>525</weight>
+  <name>Bodengruppe GF 17.9 5ks</name>
+</container>
+
+<container>
+  <sap>10016</sap>
+  <size1>1500</size1>
+  <size2>700</size2>
+  <weight>525</weight>
+  <name>Bodengruppe GF 17.9 Rampe</name>
+</container>
+
+<container>
+  <sap>10017</sap>
+  <size1>1400</size1>
+  <size2>1300</size2>
+  <weight>910</weight>
+  <name>Depot 4P2-S</name>
+</container>
+
+<container>
+  <sap>10018</sap>
+  <size1>1200</size1>
+  <size2>800</size2>
+  <weight>480</weight>
+  <name>Fahrbare A-FSR vz 4 ks</name>
+</container>
+
+<container>
+  <sap>10019</sap>
+  <size1>1800</size1>
+  <size2>760</size2>
+  <weight>684</weight>
+  <name>FS 8,16</name>
+</container>
+
+<container>
+  <sap>10020</sap>
+  <size1>800</size1>
+  <size2>1200</size2>
+  <weight>480</weight>
+  <name>FS 8,8</name>
+</container>
+
+<container>
+  <sap>10021</sap>
+  <size1>1320</size1>
+  <size2>900</size2>
+  <weight>594</weight>
+  <name>Gasflash.TR.PAL.</name>
+</container>
+
+<container>
+  <sap>10022</sap>
+  <size1>800</size1>
+  <size2>650</size2>
+  <weight>260</weight>
+  <name>Grobsieb</name>
+</container>
+
+<container>
+  <sap>10023</sap>
+  <size1>2400</size1>
+  <size2>1550</size2>
+  <weight>1860</weight>
+  <name>GS 305</name>
+</container>
+
+<container>
+  <sap>10024</sap>
+  <size1>2400</size1>
+  <size2>1550</size2>
+  <weight>1860</weight>
+  <name>GS 155</name>
+</container>
+
+<container>
+  <sap>10025</sap>
+  <size1>3300</size1>
+  <size2>2300</size2>
+  <weight>3795</weight>
+  <name>MC 3320</name>
+</container>
+
+<container>
+  <sap>10026</sap>
+  <size1>1220</size1>
+  <size2>820</size2>
+  <weight>5002</weight>
+  <name>SH I MODUL</name>
+</container>
+
+<container>
+  <sap>10027</sap>
+  <size1>1300</size1>
+  <size2>2500</size2>
+  <weight>1625</weight>
+  <name>Tankovací plošina</name>
+</container>
+
+<container>
+  <sap>10028</sap>
+  <size1>2700</size1>
+  <size2>1660</size2>
+  <weight>2241</weight>
+  <name>TC-2A</name>
+</container>
+
+<container>
+  <sap>10029</sap>
+  <size1>1300</size1>
+  <size2>2700</size2>
+  <weight>1755</weight>
+  <name>TC-2F</name>
+</container>
+
+<container>
+  <sap>10030</sap>
+  <size1>1700</size1>
+  <size2>1400</size2>
+  <weight>1190</weight>
+  <name>TC-A</name>
+</container>
+
+<container>
+  <sap>10031</sap>
+  <size1>2000</size1>
+  <size2>1600</size2>
+  <weight>1600</weight>
+  <name>Türelement GF17/33</name>
+</container>
+
+<container>
+  <sap>10032</sap>
+  <size1>1220</size1>
+  <size2>1250</size2>
+  <weight>762</weight>
+  <name>W 2</name>
+</container>
+
+<container>
+  <sap>10033</sap>
+  <size1>1700</size1>
+  <size2>2540</size2>
+  <weight>2159</weight>
+  <name>Wanne P210</name>
+</container>
+
+<container>
+  <sap>10034</sap>
+  <size1>2100</size1>
+  <size2>950</size2>
+  <weight>997</weight>
+  <name>WHG 210</name>
+</container>
+
+</library>
