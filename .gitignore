@@ -1,0 +1,16 @@
+target
+bin
+build
+deployment/libs
+deployment/app
+deployment/backup
+.scoreCache.gz
+.settings
+.scoreCache
+.classpath
+.project
+.cache
+.gradle
+velocity.log
+idea
+*.iml
